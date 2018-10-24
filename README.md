@@ -1,8 +1,12 @@
 # awesome-react-native-accessibility
 🎁 A curated list of React Native accessibility resources
 
+## Table of Contents
+
+- [Official documentation](#official-documentation)
+
 ## Official documentation
-Facebook provides some good accessibility resources in their React Native documentation.
+Resources provided by Facebook for React Native accessibility
 
 ### [Accessibility - React Native](https://facebook.github.io/react-native/docs/accessibility)
 The accessibility page of the React Native docs.
