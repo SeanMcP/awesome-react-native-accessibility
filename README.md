@@ -25,6 +25,14 @@ A (now dated) summary of how Facebook made their Ads Manager app more accessible
 
 **Takeaway**: A lot can be accomplished using `accessible` and `accessibilityLabel` props.
 
+## Overviews
+Thorough looks into React Native accessibility
+
+### [Creating inclusive apps in React Native (Medium)](https://medium.com/@larenelg/creating-inclusive-apps-in-react-native-the-coding-bit-bd3832349009)
+A summary of best practices in React Native accessibility
+
+**Takeaway**: `accessible` and `accessibilityLabel` are the most common and useful accessibility props.
+
 ## Tutorials
 Step-by-step guides to making accessible React Native apps
 
