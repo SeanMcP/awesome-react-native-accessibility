@@ -5,6 +5,7 @@
 
 - [Official documentation](#official-documentation)
 - [Tutorials](#tutorials)
+- [Packages](#packages)
 
 ## Official documentation
 Resources provided by Facebook for React Native accessibility
@@ -31,3 +32,11 @@ Step-by-step guides to making accessible React Native apps
 Wern Ancheta makes an inaccessible app more accessible.
 
 **Takeaway**: Don't neglect the visual contrast and text size in addition to the React Native accessibility props.
+
+## Packages
+Packages that provide helpful accessibility resources
+
+### [`react-native-accessibility` (GitHub)](https://github.com/MaxToyberman/react-native-accessibility)
+Provides utilities for triggering the screen reader and autofocusing views.
+
+**Takeaway**: There are instances when you may want to trigger the screen reader, but it should be used sparingly.
