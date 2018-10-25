@@ -7,6 +7,7 @@
 - [Packages](#packages)
 - [Tools](#tools)
 - [Articles](#articles)
+- [Follow](#follow)
 
 ## Official documentation
 Resources provided by Facebook for React Native accessibility
@@ -70,3 +71,14 @@ Miscellaneous articles related to React Native accessibility
 - [Mobile Accessibility Resources (Medium)](https://medium.com/@larenelg/mobile-accessibility-resources-dab97a739080)
   - Larene Lg's list of resources and applications for mobile accessibility.
   - **Takeaway**: Tech companies and governments have made resources available to help you on your quest.
+
+## Follow
+A list of people and companies mentioned above
+
+### People
+- [Larene Lg (Twitter)](https://twitter.com/larenelg)
+- [Max Toyberman (GitHub)](https://github.com/MaxToyberman)
+- [Wern Ancheta (GitHub)](https://github.com/anchetaWern)
+
+### Companies
+- [Formidable Labs](https://formidable.com/)
