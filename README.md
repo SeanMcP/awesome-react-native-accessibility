@@ -7,6 +7,7 @@
 - [Overviews](#overviews)
 - [Tutorials](#tutorials)
 - [Packages](#packages)
+- [Tools](#tools)
 
 ## Official documentation
 Resources provided by Facebook for React Native accessibility
@@ -30,7 +31,7 @@ A (now dated) summary of how Facebook made their Ads Manager app more accessible
 Thorough looks into React Native accessibility
 
 ### [Creating inclusive apps in React Native (Medium)](https://medium.com/@larenelg/creating-inclusive-apps-in-react-native-the-coding-bit-bd3832349009)
-A summary of best practices in React Native accessibility
+Larene Lg summarizes the best practices in React Native accessibility.
 
 **Takeaway**: `accessible` and `accessibilityLabel` are the most common and useful accessibility props.
 
@@ -49,3 +50,21 @@ Packages that provide helpful accessibility resources
 Provides utilities for triggering the screen reader and autofocusing views.
 
 **Takeaway**: There are instances when you may want to trigger the screen reader, but it should be used sparingly.
+
+## Tools
+Online resources, software, and applications to aid in accessibility development and testing
+
+### [Mobile Accessibility Resources (Medium)](https://medium.com/@larenelg/mobile-accessibility-resources-dab97a739080)
+Larene Lg's list of resources and applications for mobile accessibility
+
+**Takeaway**: Tech companies and governments have made resources available to help you on your quest.
+
+### Mobile Apps
+
+#### Android
+
+- [Accessibility Scanner (Google Play)](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor&hl=en_US) - "Accessibility Scanner is a tool that suggests accessibility improvements for Android apps without requiring technical skills. Just open the app you want to scan, then tap the Accessibility Scanner button to find items in the app that might benefit from accessibility improvements."
+- TalkBack
+
+#### iOS
+- VoiceOver
