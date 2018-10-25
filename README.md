@@ -46,10 +46,8 @@ Wern Ancheta makes an inaccessible app more accessible.
 ## Packages
 Packages that provide helpful accessibility resources
 
-### [`react-native-accessibility` (GitHub)](https://github.com/MaxToyberman/react-native-accessibility)
-Provides utilities for triggering the screen reader and autofocusing views.
-
-**Takeaway**: There are instances when you may want to trigger the screen reader, but it should be used sparingly.
+- [`eslint-plugin-react-native-a11y` (GitHub)](https://github.com/FormidableLabs/eslint-plugin-react-native-a11y) - Eslint-plugin-react-native-a11y is a collection of React Native specific ESLint rules for identifying accessibility issues
+- [`react-native-accessibility` (GitHub)](https://github.com/MaxToyberman/react-native-accessibility) - Provides utilities for triggering the screen reader and autofocusing views
 
 ## Tools
 Online resources, software, and applications to aid in accessibility development and testing
